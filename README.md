@@ -1,4 +1,4 @@
-# Smart To-Do App
+# BREW smart to-do app
 
 This Smart To-Do App is a single page application that sorts the users input into 4 different catagories - Products, Books, Restaurants, and Movies. Our app utilizes external apis (such as yelp, google books, rainforest) to find the exact match that the user is looking for, and saves them in a database built using PostgreSQL.
 
