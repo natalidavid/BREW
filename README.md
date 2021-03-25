@@ -35,3 +35,11 @@ This Smart To-Do App is a single page application that sorts the users input int
 - Node-sass-middleware
 - pg
 
+## Contributors
+
+<a href="https://github.com/natalidavid/BREW/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=natalidavid/BREW" />
+</a>
+
+Made with [contributors-img](https://contrib.rocks).
+This app was our Lighthouse Labs midterm project.
