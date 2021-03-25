@@ -42,4 +42,4 @@ This Smart To-Do App is a single page application that sorts the users input int
 </a>
 
 Made with [contributors-img](https://contrib.rocks).
-This app was our Lighthouse Labs midterm project.
+This app was our [Lighthouse Labs](https://github.com/lighthouse-labs) midterm project.
